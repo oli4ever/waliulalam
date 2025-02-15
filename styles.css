@@ -255,7 +255,7 @@ h2 {
     background-color: #009999;
     border-radius: 50%;
     color: #660033;
-    font-size: 17px;
+    font-size: 20px;
     text-decoration: none;
 }
 
@@ -271,12 +271,12 @@ h2 {
     text-shadow: 2px 2px 2px #1f1f1f;
 }
 
-.icon>a:nth-child(3) {
+.icon>a:nth-child(5) {
     text-decoration: none;
     color: #cefdfd;
 }
 
-.icon>a:nth-child(3):hover {
+.icon>a:nth-child(5):hover {
     color: #ff99cc;
     transform: scale(1.1);
     transition: transform 0.3s ease-in-out;
