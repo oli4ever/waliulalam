@@ -37,11 +37,6 @@ h2 {
     font-weight: 800;
 }
 
-.text-primary {
-    color: #000000;
-    text-shadow: 2px 2px 4px #cccccc;
-}
-
 #navbar ul {
     list-style: none;
     display: flex;
@@ -214,7 +209,7 @@ h2 {
     cursor: pointer;
 }
 
-#projects>a {
+#welcome-container>a, #projects>a {
     text-decoration: none;
 }
 
